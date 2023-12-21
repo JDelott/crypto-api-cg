@@ -3,7 +3,9 @@ import axios from 'axios'
 import Coins from './components/Coins'
 import Coin from './routes/Coin'
 import Navbar from './components/Navbar'
+
 import { Routes, Route } from 'react-router-dom'
+
 
 function App() {
 
